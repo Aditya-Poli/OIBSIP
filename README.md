@@ -7,5 +7,5 @@ This repository contains code for the Java Programming Internship at OASIS INFOB
 | Task No.       | Link     |
 |--------------|-----------|
 | 1. | [Online Reservation System](./Task_1)      |
-| 2. | [Number Guessing Game](./Task\2)      |
-| 3. | [ATM Interface](./Task\3)      |
+| 2. | [Number Guessing Game](./Task%202)      |
+| 3. | [ATM Interface](./Task%203)      |
